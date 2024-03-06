@@ -1,0 +1,27 @@
+{
+	"file": "https://www.dropbox.com/scl/fi/5b9h1qxjwftd9f8gt9r6r/Calbicans22.csv?rlkey=7flfohzesbpcv633ngk6lzxtz&dl=0",
+	"name": “Calbicans22Test",
+	"header": 0,
+	"separator": “,”,
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, “name”: “Orthogroups” },
+		{ "type": "id", "index": 1, “name”: “Afumigatus” },
+		{ "type": "id", "index": 2, “name”: “Bcinerea” },
+		{ "type": "id", "index": 3, “name”: “Bgraminis” },
+		{ "type": "id", "index": 4, “name”: “Calbicans” },
+		{ "type": "id", "index": 5, “name”: “Cauris” },
+		{ "type": "id", "index": 6, “name”: “Chigginsianum” },
+		{ "type": "id", "index": 7, “name”: “Cneoformans” },
+		{ "type": "id", "index": 8, “name”: “Fgraminearum” },
+		{ "type": "id", "index": 9, “name”: “Foxysporum” },
+		{ "type": "id", "index": 10, “name”: “Hcapsulatum” },
+		{ "type": "id", "index": 11, “name”: “Moryzae” },
+		{ "type": "id", "index": 12, “name”: “Umaydis” },
+		{ "type": "id", "index": 13, “name”: “Ztritici” },
+
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 13 }
+	]
+}
